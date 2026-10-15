@@ -8,13 +8,13 @@
 |---|---|
 | ![Song gate](screenshots/01-song-gate.png) | ![Letter](screenshots/02-letter.png) |
 
-| Level 03 · Choice | Level 04 · Memory Rain |
+| Level 03 · Choice | Level 03 · She said yes! |
 |---|---|
-| ![Choice](screenshots/03-choice.png) | ![Memories](screenshots/04-memories.png) |
+| ![Choice](screenshots/03-choice.png) | ![She said yes](screenshots/04-she-said-yes.png) |
 
-| Final Level · Cake & Candles |
-|---|
-| ![Finale](screenshots/05-finale.png) |
+| Level 04 · Memory Rain | Final Level · Cake & Candles |
+|---|---|
+| ![Memories](screenshots/04-memories.png) | ![Finale](screenshots/05-finale.png) |
 
 ## The Quest
 
